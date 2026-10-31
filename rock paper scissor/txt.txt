@@ -1,0 +1,96 @@
+2. 
+if beginner: they choose scissor first
+if intermediate: they chose rock first
+if expert they chose paper first. 
+-------------------
+
+1. People theory 1. 
+win choses the same again
+lose choses the one which would have made them win
+tie choses the same one again. 
+---------
+
+
+Counter:
+
+
+if they lose, I chose the one "they" have chosen before = if I win, I chose the one they have chosen before. 
+
+if they win, I chose the one that'd counterattack the previous one "they" chose before =  if I lose, I chose the one that's counterattack
+
+if we tie chose the one that'd counterattack. 
+
+
+
+suppose player beginner
+I am following the strategy of winner:
+
+me vs player
+r vs s 1 player is my hypothetical follower. 
+s vs p 1
+p vs r 1 
+r vs s 1
+
+player is following the strategy of winner:
+
+me vs player
+s vs r  0
+r vs s 1
+s vs p 1
+r vs r 0
+r vs p 0
+
+ if they take account of my previous behavior too or they think of beating my next behavior. 
+
+
+but if they only think about their only action then scissor would go to rock. and think they can be just random. 
+then the 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. People:
+win  choses same again 
+lose choses what the win has chosen before.  
+if it's tie, chooses the same again. 
+
+---------
+counter:
+
+that means if 
+if I lose I chose what would counterattack what "i" have chosen before. = if I win , I chose what would counterattack what I have chosen before.
+ 
+if they win, I chose the one that'd counterattack the previous one they chose before =  if I lose, I chose the one that's counterattack the previous one they chose before.
+
+if we tie I chose the one that'd counterattack. 
+
+
+if computer wins computer choses what w
+
+me vs player
+
+s vs r
+p vs r 
+r vs s
+p vs r
+p vs r
+
+I want to play with this guy machine. 
+
+i chose s i win
+s vs p
+i chose rock i lose
+r vs s
+
+then i chose paper because that made them win. 
+
+p vs 
+
+but if they also know this theory then they would know i am gonna through paper so they should throw rock. 
+
+----------------------------
+simple way to beat the guy who follows 1st theory is:
+f comp r first:
+you win if you throw  r s p go on
+you tie if you throw r p s , p s r
+you lose if you throw s r p, s r p
+
+if comp p first: rsp does work. 
+
